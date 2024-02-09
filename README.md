@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="left">Hey there! 👋 Welcome to my GitHub profile.</h1>
+<h1 align="left">Hi there! 👋</h1>
 
 ###
 
